@@ -40,18 +40,19 @@ The soul of this project lies in its translation rules. We do not compose melodi
 
 We map the Trigrams based on their **Wu Xing (Five Elements)** attributes to the traditional Chinese **Pentatonic Scale**.
 
-我们根据八卦的**五行**属性，将其映射为中国传统**五声调式**：
+我们根据八卦的**五行**属性，将其映射为中国传统**五声调式，规则如下**：
 
 | Trigram (八卦) | Element (五行) | Guqin Tone (古琴五音) | Number (简谱) |
 | :--- | :--- | :--- | :--- |
-| **Earth (土)** | Earth (土) | Gong (宫) | 1 |
-| **Metal (金)** | Metal (金) | Shang (商) | 2 |
-| **Wood (木)**  | Wood (木) | Jue (角) | 3 |
-| **Fire (火)**  | Fire (火) | Zhi (徵) | 5 |
-| **Water (水)** | Water (水) | Yu (羽) | 6 |
+| **Qian (乾)** | Metal (金) | Shang (商) | 高音2 |
+| **Dui (兑)** | Metal (金) | Shang (商) | 2 |
+| **Zhen (震)**  | Wood (木) | Jue (角) | 高音3 |
+| **Xun (巽)**  | Wood (木) | Jue (角) | 3 |
+| **Kan (坎)** | Water (水) | Yu (羽) | 6 |
+| **Li (离)** | Fire (火) | Zhi (徵) | 5 |
+| **Kun (坤)** | Earth (土) | Gong (宫) | 高音1 |
+| **Gen (艮)** | Earth (土) | Gong (宫) | 1 |
 
-坤＝高音1，震＝高音3，乾＝高音2
-其余（艮、坎、巽、离、兑）为“中音”八度：中1/中6/中3/中5/中2
 
 
 ### 2. The Binary Structure (二进制读取规则)
