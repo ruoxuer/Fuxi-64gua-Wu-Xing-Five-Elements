@@ -43,14 +43,14 @@ The soul of this project lies in its translation rules. We allow the Hexagrams t
 
 | Trigram 八卦 | Element 五行 | Tone 五音 | Number 简谱 |
 |:---:|:---:|:---:|:---:|
-| **Qian 乾** | Metal 金 | Shang 商 | 2' (High) |
-| **Dui 兑** | Metal 金 | Shang 商 | 2 |
-| **Zhen 震** | Wood 木 | Jue 角 | 3' (High) |
-| **Xun 巽** | Wood 木 | Jue 角 | 3 |
-| **Kan 坎** | Water 水 | Yu 羽 | 6 |
-| **Li 离** | Fire 火 | Zhi 徵 | 5 |
-| **Kun 坤** | Earth 土 | Gong 宫 | 1' (High) |
-| **Gen 艮** | Earth 土 | Gong 宫 | 1 |
+| **Qian 乾☰** | Metal 金 | Shang 商 | 2' (High) |
+| **Dui 兑☱** | Metal 金 | Shang 商 | 2 |
+| **Zhen 震☳** | Wood 木 | Jue 角 | 3' (High) |
+| **Xun 巽☴** | Wood 木 | Jue 角 | 3 |
+| **Kan 坎☵** | Water 水 | Yu 羽 | 6 |
+| **Li 离☲** | Fire 火 | Zhi 徵 | 5 |
+| **Kun 坤☷** | Earth 土 | Gong 宫 | 1' (High) |
+| **Gen 艮☶** | Earth 土 | Gong 宫 | 1 |
 
 > **Sources / 依据**  
 > - Trigram-Element correspondence: Zhouyi·Shuo Gua Zhuan (Commentary on the Trigrams, part of the I Ching) and the image-number Yijing & cosmological traditions of the Han Dynasty
@@ -176,5 +176,6 @@ Dedicated to the ancient wisdom that encoded the universe into broken and unbrok
 致敬那将宇宙编码为阴阳爻画的古老智慧。
 
 ---
+
 
 
