@@ -12,11 +12,11 @@
 
 ## 📖 Introduction / 项目简介
 
-This project explores the **acoustic representation** of the ancient Chinese Hexagram system. By establishing a mapping between the **Eight Trigrams (八卦)**, **Five Elements (五行)**, and the traditional **Guqin Pentatonic Scale (古琴五音)**, we transform visual symbols into audible musical structures.
+This project explores the **acoustic representation** of the ancient Chinese Hexagram system. By a mapping between the **Eight Trigrams (八卦)**, **Five Elements (五行)**, and the traditional **Guqin Pentatonic Scale (古琴五音)**, we transform visual symbols into audible musical structures.
 
 The core goal is to manifest the energy dynamics of the "Former Heaven" (先天) cosmological state through sound.
 
-本项目探索**伏羲先天六十四卦**的听觉化表达。通过建立**八卦-五行-古琴五音**之间的映射体系，我们将古老的卦象符号转化为可聆听的音乐结构，旨在以声音的形式呈现"先天"能量的流动与回响。
+本项目探索**伏羲先天六十四卦**的听觉化表达。通过古籍中关于**八卦-五行-古琴五音**之间的映射体系，我们将古老的卦象符号转化为可聆听的音乐结构，旨在以声音的形式呈现"先天"能量的流动与回响。
 
 ---
 
@@ -176,6 +176,7 @@ Dedicated to the ancient wisdom that encoded the universe into broken and unbrok
 致敬那将宇宙编码为阴阳爻画的古老智慧。
 
 ---
+
 
 
 
