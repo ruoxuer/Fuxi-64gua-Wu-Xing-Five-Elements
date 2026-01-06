@@ -8,6 +8,8 @@
 
 **Creator / 创作者：WinterQin 冬琴（星幻Annie）**
 
+![伏羲六十四卦 · 先天回响-五行五音可视化v1](https://raw.githubusercontent.com/ruoxuer/Fuxi-64gua-Wu-Xing-Five-Elements/main/伏羲六十四卦%20·%20先天回响-五行五音可视化v1.png)
+
 ---
 
 ## 📖 Introduction / 项目简介
@@ -176,6 +178,7 @@ Dedicated to the ancient wisdom that encoded the universe into broken and unbrok
 致敬那将宇宙编码为阴阳爻画的古老智慧。
 
 ---
+
 
 
 
