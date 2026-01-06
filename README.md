@@ -6,7 +6,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-**Creator / 创作者：WinterQin 冬琴（星幻Annie）**
+**Creator / 创作者：DongQin 冬琴（星幻Annie）**
 
 ![伏羲六十四卦 · 先天回响-五行五音可视化v1](https://raw.githubusercontent.com/ruoxuer/Fuxi-64gua-Wu-Xing-Five-Elements/main/伏羲六十四卦%20·%20先天回响-五行五音可视化v1.png)
 
@@ -153,7 +153,7 @@ This project is released under the **Creative Commons Attribution 4.0 Internatio
   使用、分享、改编本作品，包括商业用途。
 
 **Under the following terms / 惟须遵守：**
-- **Attribution / 署名**: Please credit the original creator (**WinterQin / 冬琴 / 星幻Annie**) in your work or documentation.  
+- **Attribution / 署名**: Please credit the original creator (**DongQin / 冬琴 / 星幻Annie**) in your work or documentation.  
   请在您的作品或文档中注明原作者，以此作为对创作来源的尊重。
 
 ---
@@ -178,6 +178,7 @@ Dedicated to the ancient wisdom that encoded the universe into broken and unbrok
 致敬那将宇宙编码为阴阳爻画的古老智慧。
 
 ---
+
 
 
 
