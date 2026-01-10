@@ -6,7 +6,7 @@
 
 **Creator / 创作者：DongQin 冬琴（星幻Annie）**
 
-![伏羲八卦五音 · 先天回响-五行五音可视化v1]([https://github.com/ruoxuer/Fuxi-64gua-Wu-Xing-Five-Elements/blob/main/%E4%BC%8F%E7%BE%B2%E5%85%AB%E5%8D%A6%E4%BA%94%E9%9F%B3%20%C2%B7%20%E5%85%88%E5%A4%A9%E5%9B%9E%E5%93%8D-%E4%BA%94%E8%A1%8C%E4%BA%94%E9%9F%B3%E5%8F%AF%E8%A7%86%E5%8C%96v1.png)
+![伏羲八卦五音 · 先天回响-五行五音可视化v1](https://raw.githubusercontent.com/ruoxuer/Fuxi-64gua-Wu-Xing-Five-Elements/main/伏羲八卦五音%20·%20先天回响-五行五音可视化v1.png)
 
 ---
 
